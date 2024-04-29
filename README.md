@@ -1,5 +1,7 @@
 # Biologically inspired conceptual design and engineering
 
+![pavan tejaswi](IMG1.PNG)
+
 Hi, I am Pavan Tejaswi Velivela, I have a Ph.D. from McGill University in Mechanical Engineering.
 My thesis involves developing an ideation system for Multifunctional Bio-inspired Design (MBID).
 On this page, you can access my latest projects and research. Additionally, there is one more online portfolio on Google Sites:
