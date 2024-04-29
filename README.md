@@ -10,10 +10,10 @@ On this page, you can access my latest projects and research. Additionally, ther
 3. B.Tech in Mechanical Engineering - Koneru Lakshmaiah College of Engineering (KL deemed to be University), India  
 
 ### Projects @ McGill
--Multifunctional bio-inspired skins for marine applications
--Multifunctional bio-inspired structures for aerospace applications
--Multifunctional bio-inspired non-pneumatic tire design
--Multifunctional bio-inspired painless sutures pin/leg design
+- Multifunctional bio-inspired skins for marine applications
+- Multifunctional bio-inspired structures for aerospace applications
+- Multifunctional bio-inspired non-pneumatic tire design
+- Multifunctional bio-inspired painless sutures pin/leg design
 
 ### Projects @ Politecnico di Milano
 - Flux - A pressotherapy medical device for rheumatic patients (Product development Studio-Final)
