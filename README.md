@@ -21,12 +21,12 @@ On this page, you can access my latest projects and research. Additionally, ther
 - Multifunctional bio-inspired non-pneumatic tire design
 - Multifunctional bio-inspired painless sutures pin/leg design
 
-### Projects @ Politecnico di Milano
+### Design projects @ Politecnico di Milano
 - Flux - A pressotherapy medical device for rheumatic patients (Product development Studio-Final)
 - Sibilla - A portable coffee machine (Product development Studio-2)
 - Daisy - A water nozzle for kids (Product development Studio-1)
 
-### Projects @ Koneru Lakshmaiah College of Engineering (KL deemed to be University)
+### Design projects @ Koneru Lakshmaiah College of Engineering (KL deemed to be University)
 -  Simplified design of prosthetic foot
 -  Power-generating plough
 -  Wheelchair that can climb stairs
