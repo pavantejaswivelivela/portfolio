@@ -9,7 +9,13 @@ On this page, you can access my latest projects and research. Additionally, ther
 2. MSc in Design and Engineering - Politecnico di Milano, Italy
 3. B.Tech in Mechanical Engineering - Koneru Lakshmaiah College of Engineering (KL deemed to be University), India  
 
-### Projects @ McGill
+### Research @ McGill
+- Novel of Bio-inspired Knowledge Acquisition and Simulacrum (BIKAS) a Knowledge Database.
+- Novel Domain Integrated Design (DID) method and Expandable Domain Integrated Design (xDID) Model for Multifunctional Bio-inspired design
+- Novel Meta-level design parameters to choose between two biological features that exhibit the same function.
+- Conceptual design of novel multifunctional bio-inspired designs.
+
+### Multifunctional bio-inspired design projects @ McGill
 - Multifunctional bio-inspired skins for marine applications
 - Multifunctional bio-inspired structures for aerospace applications
 - Multifunctional bio-inspired non-pneumatic tire design
