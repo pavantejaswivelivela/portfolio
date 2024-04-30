@@ -14,6 +14,7 @@ The outcome of the research is to enhance the rapidity in generating unique mult
 3. Parameters for selecting between biological features that exhibit the same functions: Meta-level design parameters
 4. Model for generating multifunctional bio-inspired designs: Expandable Domain Integrated Design (xDID)
 5. Generation of novel multifunctional bio-inspired conceptual designs
+For more about my research please visit (http://pavantejaswivelivela/portfolio/research.html)
 
 ### Advanced multifunctional bio-inspired conceptual designs @ McGill University 
 - Multifunctional bio-inspired skins for marine applications
