@@ -5,7 +5,7 @@ My thesis involves developing an ideation system for Multifunctional Bio-inspire
 On this page, you can access my latest projects and research. Additionally, there is one more online portfolio on Google Sites:
 
 ## Education
-1. PhD in Mechanical Engineering - McGill University, Canada
+1. PhD in Mechanical Engineering - McGill University, Canada (2020-24)
 2. MSc in Design and Engineering - Politecnico di Milano, Italy
 3. B.Tech in Mechanical Engineering - Koneru Lakshmaiah College of Engineering (KL deemed to be University), India  
 
