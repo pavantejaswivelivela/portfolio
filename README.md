@@ -2,7 +2,7 @@
 I am Pavan Tejaswi Velivela, and I am currently at McGill University finishing my PhD on developing a rapid idea generation system for generating Multifunctional Bio-inspired Designs (MBID).
 The outcome of the research is to enhance the rapidity in generating unique multifunctional designs/structures inspired by biological systems. I work at the interaction of Bioinspiration, Mechanical Engineering, Industrial Design, and Material Science.
 
-# Education
+### Education
 1. PhD in Mechanical Engineering from McGill University, Quebec, Canada (2020-24).
 2. MSc in Design & Engineering from Politecnico di Milano, Lombardy, Italy (2016-18).
 3. B.Tech in Mechanical Engineering from Koneru Lakshmaiah College of Engineering (KL deemed to be University), Andhra Pradesh, India (2009-13).
@@ -36,7 +36,7 @@ The outcome of the research is to enhance the rapidity in generating unique mult
 - Two-wheeled drive bicycle (presented at National Institute of Technology Warangal, 2011 and Indian Institute of Technology Madras, 2010).
   
 
-  
+<h5> &copy; Pavan Tejaswi Velivela @ ADML, McGill Univesity </h5> 
 
 
 
