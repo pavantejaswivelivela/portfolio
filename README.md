@@ -7,9 +7,9 @@ The outcome of the research is to enhance the rapidity in generating unique mult
 2. MSc in Design & Engineering from Politecnico di Milano, Lombardy, Italy (2016-18).
 3. B.Tech in Mechanical Engineering from Koneru Lakshmaiah College of Engineering (KL deemed to be University), Andhra Pradesh, India (2009-13).
 
-### Research @ Mcgill University
-- Ideation System comprised of:
-1. Knowledge database: BIKAS (Bio-inspired Knowledge Acquisition and Simulacrum)
+### Research @ Mcgill University (Online link: [MBID](https://pavantejaswivelivela.github.io/Multifunctional-BID/))
+- Multifunctional Bio-inspired Design (MBID) Ideation System comprises :
+1. Knowledge database: BIKAS (Bio-inspired Knowledge Acquisition and Simulacrum) Online interactive application Link: [BIKAS](https://bikas.onrender.com/)
 2. Method for multifunctional bio-inspired design: Domain Integrated Design (DID)
 3. Parameters for selecting between biological features that exhibit the same functions: Meta-level design parameters
 4. Model for generating multifunctional bio-inspired designs: Expandable Domain Integrated Design (xDID)
