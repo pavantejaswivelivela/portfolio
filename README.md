@@ -35,7 +35,7 @@ The outcome of the research is to enhance the rapidity in generating unique mult
 - Wheelchair that can climb stairs (presented at Indian Institute of Technology, Madras 2011).
 - Two-wheeled drive bicycle (presented at National Institute of Technology Warangal, 2011 and Indian Institute of Technology Madras, 2010).
 
-
+More information regarding the designs can be accessed through the author's [Personal Portfolio](https://sites.google.com/view/pavantejaswivelivela) 
   
 <h5> &copy; 2024 Pavan Tejaswi Velivela. All rights reserved </h5>
 The land I work at is situated on the traditional territory of the Kanien’kehà:ka, a place which has long served as a site of meeting and exchange amongst many First Nations including the Kanien’kehá:ka of the Haudenosaunee Confederacy, Huron/Wendat, Abenaki, and Anishinaabeg.
