@@ -8,13 +8,16 @@ The outcome of the research is to enhance the rapidity in generating unique mult
 3. B.Tech in Mechanical Engineering - Koneru Lakshmaiah College of Engineering (KL deemed to be a University), Andhra Pradesh, India (2009-13).
 
 ### Research @ McGill University 
-- Multifunctional Bio-inspired Design (MBID) Ideation System comprises :
-1. Knowledge database: BIKAS (Bio-inspired Knowledge Acquisition and Simulacrum) Online interactive application Link: [BIKAS](https://bikas.onrender.com/)
-2. Method for multifunctional bio-inspired design: Domain Integrated Design (DID)
-3. Parameters for selecting between biological features that exhibit the same functions: Meta-level design parameters
-4. Model for generating multifunctional bio-inspired designs: Expandable Domain Integrated Design (xDID)
-5. Generation of novel multifunctional bio-inspired conceptual designs.
-Explore the MBID **ideation system** here : [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
+- Multifunctional Bio-inspired Design (MBID) **ideation system** comprises six key components :
+1. **Identify**: Biological functional features
+2. **Abstract & Map**: Low-level abstraction and mapping of biological functional features as morphology-tissue-function relationships. 
+3. **Classify**: Classify the biological features based on their shared or common geometric characteristic, called Domains. (Domain Integrated Design (DID) & Expandable Domain Integrated Design (xDID))
+4. **Visualise**: Visualise the knowledge database of the abstracted and classified biological features, called BIKAS (Bio-inspired Knowledge Acquisition and Simulacrum)
+5. **Select**: Select the relevant biological features between those that exhibit the same function by using the quantitative parameters (Meta-level design parameters)
+6. **Combine**: Combine different morphological features using the morphology matrix for generating multifunctional bio-inspired product concepts. 
+
+- Explore the MBID **ideation system** here : [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
+- Explore the knowledge database BIKAS here: [BIKAS](https://bikas.onrender.com/)
 
 ### Advanced multifunctional bio-inspired conceptual designs @ McGill University 
 - Multifunctional bio-inspired skins for marine applications.
