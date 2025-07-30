@@ -1,6 +1,5 @@
-# Biologically inspired conceptual design and engineering
-I am Pavan Tejaswi Velivela, and I am currently at McGill University finishing my PhD on developing a rapid idea generation system for generating Multifunctional Bio-inspired Designs (MBID).
-The outcome of the research is to enhance the rapidity in generating unique multifunctional designs/structures inspired by biological systems. I work at the intersection of Bioinspiration (morphology), Mechanical Engineering, Product Design & Engineering, and Generative AI (in progress)
+# Human-AI design methods for Multifunctional bio-inspired innovation.
+I am Pavan Tejaswi Velivela, a recent PhD graduate from McGill University, where I developed the **MBID ideation system**—a structured framework for rapidly generating multifunctional bio-inspired design concepts. My work bridges bioinspired morphology, mechanical engineering, and product design, with ongoing efforts to integrate generative AI to support human–AI collaborative ideation.
 
 ### Education
 1. PhD in Mechanical Engineering - McGill University, Quebec, Canada (2020-24).
