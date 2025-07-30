@@ -1,4 +1,4 @@
-# Human-AI design methods for Multifunctional bio-inspired innovation.
+# Human-AI design methods for multifunctional bio-inspired innovation.
 I am Pavan Tejaswi Velivela, a recent PhD graduate from McGill University, where I developed the **MBID ideation system**—a structured framework for rapidly generating multifunctional bio-inspired design concepts. My work bridges bioinspired morphology, mechanical engineering, and product design, with ongoing efforts to integrate generative AI to support human–AI collaborative ideation.
 
 ### Education
